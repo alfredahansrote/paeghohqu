@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jeixeucai.siobhanisthebomb.com/sitemap.xml
